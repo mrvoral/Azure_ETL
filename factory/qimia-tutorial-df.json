@@ -1,0 +1,9 @@
+{
+	"name": "qimia-tutorial-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f64f78d-c1a7-4788-9086-0de15edc5e17",
+		"tenantId": "2ae2e245-8e8d-4036-856f-bf6abd255644"
+	}
+}
